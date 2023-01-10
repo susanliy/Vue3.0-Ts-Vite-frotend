@@ -1,0 +1,16 @@
+/dist/*
+/node_modules/
+/public/
+src/assets/css
+src/utils/postcss-px-to-viewport
+# 其他类型文件
+*.js
+*.jsx
+*.ts
+*.tsx
+*.jpg
+*.woff
+
+
+
+

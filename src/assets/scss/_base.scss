@@ -1,0 +1,99 @@
+/** 样式初始化 **/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-size: 13px;
+  height: 100%;
+  width: 100%;
+  min-width: 1200px;
+}
+
+body {
+  background: #f0f2f5;
+  line-height: 1.5715;
+}
+
+body,
+ul,
+ol,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+form,
+fieldset,
+legend,
+input,
+textarea,
+select,
+button,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+table {
+  font-size: inherit;
+}
+
+input,
+select {
+  font-size: 100%;
+  font-size-adjust: none;
+  font-stretch: normal;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: normal;
+}
+
+button {
+  overflow: visible;
+}
+
+li {
+  list-style: none outside none;
+}
+
+img,
+fieldset {
+  border: 0 none;
+}
+
+ins {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+img {
+  vertical-align: middle;
+  user-select: none;
+  background-color: transparent !important;
+}

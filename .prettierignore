@@ -1,0 +1,12 @@
+/dist/*
+.local
+.output.js
+/node_modules/**
+
+**/*.svg
+**/*.sh
+
+/public/*
+/src/utils/postcss-px-to-viewport
+/src/assets/css/swiper-bundle.min.css
+index.html
