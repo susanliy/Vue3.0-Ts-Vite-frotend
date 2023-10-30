@@ -1,12 +1,3 @@
-# 开放平台
-
-- 原型地址：
-  - https://lanhuapp.com/url/kq6Pd-AO5G9M
-
-
-- GitLab地址：
-  - http://192.168.3.36:800/chenqy/kfpt-frotend.git
-
 ## 项目说明
 
 - vite2 + vue3 + element ui + vuex
